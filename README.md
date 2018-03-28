@@ -7,7 +7,9 @@ At the command of an alias, this script:
 * Syncs a vanilla workspace and database within seconds, returning you to its original state
 
 ### To Install ###
-Place the .sh script in your scripts directory, make note of its path.
+:pencil2: Edit [workspace-sync.sh](https://github.com/z0m8i3/sync-development-workspace/blob/master/workspace-sync.sh) and edit your environment's config.
+
+:open_file_folder: Place the .sh script in your scripts directory, make note of its path.
 
 Make it executable:
 ```bash
